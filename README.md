@@ -25,6 +25,10 @@ road_damage_detection(input_video, out_folder)
  6. Wait
  
  <h2> Pothole Detection </h2>
+ ![Alt Text](dependency/gif/Lubang.gif)
  
+
+ 
+
  
  

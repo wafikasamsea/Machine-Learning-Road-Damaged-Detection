@@ -24,8 +24,23 @@ road_damage_detection(input_video, out_folder)
 ```
  6. Wait
  
- <h2> Pothole Detection </h2>
- ![Alt Text](dependency/gif/Lubang.gif)
+ <h2>Pothole Detection</h2>
+ 
+ <p align="center">
+  <img src="dependency/gif/Lubang.gif" alt="Pothole Detection">
+</p>
+
+<h2> Aligator Crack Detection</h2>
+
+<p align="center">
+  <img src="dependency/gif/Retak_Kulit_Buaya.gif" alt="Aligator Crack Detection">
+</p>
+
+<h2> CSV Damaged Detail </h2>
+
+<p align="center">
+  <img src="csv_detail.png" alt="CSV Detail">
+</p>
  
 
  

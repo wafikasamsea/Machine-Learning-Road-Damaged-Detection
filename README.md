@@ -39,7 +39,7 @@ road_damage_detection(input_video, out_folder)
 <h2> CSV Damaged Detail </h2>
 
 <p align="center">
-  <img src="csv_detail.png" alt="CSV Detail">
+  <img src="dependency/gif/csv_detail.png" alt="CSV Detail">
 </p>
  
 
